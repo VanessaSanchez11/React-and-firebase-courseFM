@@ -11,3 +11,4 @@ In this repository there will be different projects that implement the following
 8. Styled Components
 9. JSX
 
+To be able to see them, switch to the develop branch.
